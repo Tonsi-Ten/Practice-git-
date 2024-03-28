@@ -1,2 +1,2 @@
-## practising Git Commands. my name is Aditya
+### practising Git Commands. my name is Aditya
 
